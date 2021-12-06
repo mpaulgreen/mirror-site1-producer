@@ -45,7 +45,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>amqcob.amqcob.mirroing.MirrorSite1Producer</mainClass>
+                    <mainClass>amqcob.mirroing.MirrorSite1Producer</mainClass>
                 </configuration>
             </plugin>
         </plugins>
