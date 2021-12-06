@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package mirroing;
+package amqcob.mirroing;
 
 import org.apache.qpid.jms.JmsConnectionFactory;
 
